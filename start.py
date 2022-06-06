@@ -1,7 +1,13 @@
 import os
 import time
 
-app_list = {}
+app_list = {r"c:\path to app 1",
+            r"c:\path to app 2",
+            r"c:\path to app 3",
+            r"c:\path to app 4",
+            r"c:\path to app 5",
+            r"c:\path to app 6",
+            r"c:\path to app 7"}
 
 
 def Open_Apps(apps_list):
